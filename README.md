@@ -1,2 +1,3 @@
-# decision_boundary_mapper
-Decision Bounday Mapping algorithms
+# Decision Boundary Mapper
+
+Decision Boundary Mapping algorithms
